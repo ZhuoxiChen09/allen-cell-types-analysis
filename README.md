@@ -15,6 +15,8 @@ Per-specimen NWB recordings and SWC reconstructions are not committed; `.gitigno
 
 ## Setup
 
+Use Python 3.11 (AllenSDK does not support newer NumPy/pandas).
+
 ```bash
 git clone https://github.com/ZhuoxiChen09/allen-cell-types-analysis.git
 cd allen-cell-types-analysis
